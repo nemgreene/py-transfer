@@ -1,0 +1,9 @@
+
+h score function returns absolute distance to end (guess)
+g score current shortest distance to any given node
+f score = g + h estimate of how far from end node
+
+open ={(0,A), ()}
+
+look at neighbors of node
+
